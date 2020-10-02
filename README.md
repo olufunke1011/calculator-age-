@@ -10,4 +10,14 @@ This application is user friendly and allows easy input of name and age while it
 ## App prototype
 ![welcome_Page_Of_The_App.](page1.png "welcome page to the calculator")
 
+## dependencies
+###### Text editor used: VScode
+
+# Language
+# HTML
+# CSS
+# JAVASCRIPT
+
+
+
 
