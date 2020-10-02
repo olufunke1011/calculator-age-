@@ -14,9 +14,9 @@ This application is user friendly and allows easy input of name and age while it
 ###### Text editor used: VScode
 
 # Language
-# HTML
-# CSS
-# JAVASCRIPT
+* HTML
+* CSS
+* JAVASCRIPT
 
 
 
