@@ -84,7 +84,7 @@
 }
 
 .hey,
-.name,
+.showName,
 .days {
     font-family: cursive;
 }
@@ -94,7 +94,7 @@
     padding-top: 30px;
 }
 
-.name,
+.showName,
 .days {
     padding-top: 40px;
     font-size: 20px;   
