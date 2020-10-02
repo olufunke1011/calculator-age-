@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.greenBGD {
+    background-image: url(grnd.png);
+    background-size: cover;
+    /* padding: 100px;
+    margin-top: 500px;
+    margin-bottom: 500px; */
+}
+
+.blueBGD {
+    background-color: rgb(0, 110, 255);
+    width: 30%;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    /* border-style: solid; */
+    box-shadow: 10px 10px 50px 10px   black;
+}
+
+.welcome{
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 30px;   
+    margin-left: 10px;
+}
+
+.age {
+    font-family: 'Secular One', sans-serif;
+    font-size: 40px;
+    margin-top: 30px;
+    /* margin-left: 20px; */
+    text-align: center;
+}
+
+.click {
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: grey;
+    color: whitesmoke;
+}
+
+.click:hover {
+    transition: border-bottom 1s;
+    background-color: tomato;
+}
+
+.cont2,
+.prompt {
+    background-color: rgb(0, 110, 255);
+    width: 30%;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    /* border-style: solid; */
+    box-shadow: 10px 10px 50px 10px   black;
+}
+
+.formHead {
+     text-align: center;
+     margin-bottom: 50px;
+     margin-top: 50px;
+}
+
+.hidden {
+    display:none;
+}
+
+.cont2 .block {
+    display: block;
+    width: 80%;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.hey,
+.name,
+.days {
+    font-family: cursive;
+}
+
+.hey {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.name,
+.days {
+    padding-top: 40px;
+    font-size: 20px;   
+    margin-left: 10px;  
+}
+
+.img {
+    height: 100px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.blockB {
+    display: block;
+    width: 80%;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    background-color: grey;
+}  
+.blockB:hover {
+    transition: border-bottom 1s;
+    background-color: tomato;
+}
+  
+
