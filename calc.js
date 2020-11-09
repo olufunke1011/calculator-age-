@@ -20,7 +20,7 @@ var yourName = document.getElementById("name").value;
 var yourAge = document.getElementById("age").value;
 var ageInDays = yourAge * 365;
 
-if (yourName == " " || yourAge == "") {
+if (yourName == "" || yourAge == "") {
     alert("input missing field");
   
 }
